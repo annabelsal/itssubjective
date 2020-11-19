@@ -1,37 +1,155 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>It's Subjective Podcast</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body style="background-color:#f97324;"class="homepage is-preload">
+		<div style="background-color:#f97324" id="page-wrapper">
 
-You can use the [editor on GitHub](https://github.com/annabelsal/itssubjective/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+			<!-- Header -->
+				<div id="header">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+					<!-- Inner -->
+						<div class="inner">
+							<header>
+								<img src="images/subjective logo.png" alt="It's Subjective logo">
+								<hr />
+								<p style="font-family:Helvetica, sans-serif;color: #fff342;">comedy podcast of meaningless debate</p>
+							</header>
+						</div>
 
-### Markdown
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html" style="font-family:Helvetica, sans-serif;color: #fff342;">Home</a></li>
+								<li><a href="left-sidebar.html" style="font-family:Helvetica, sans-serif;color: #fff342;">Episodes</a></li>
+								<li><a href="right-sidebar.html" style="font-family:Helvetica, sans-serif;color: #fff342;">Join the Debate</a></li>
+								<li><a href="no-sidebar.html" style="font-family:Helvetica, sans-serif;color: #fff342;">Contact</a></li>
+							</ul>
+						</nav>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				</div>
 
-```markdown
-Syntax highlighted code block
+			<!-- Banner -->
+				<section style="background-color:#f97324" id="banner">
+					<header>
+															
+									<p style="font-family:Helvetica,sans-serif;color:whitesmoke;font-size:20px;">Is a baby sun more real than a talking car?</p>
+									<p style="font-family:Helvetica,sans-serif;color:whitesmoke;font-size:20px;">Is Lance Armstrong smoother than Mark Zuckerberg?</p>
+									<p style="font-family:Helvetica,sans-serif;color:whitesmoke;font-size:20px;">Join host Ross Mortimer as he asks three guests to find an object, person or concept that best fits four randomly selected adjectives.</p>
+									<p style="font-family:Helvetica,sans-serif;color:whitesmoke;font-size:20px;">Listen on <a href="https://open.spotify.com/show/48sJnbW64rDrJxnHBm8bgJ?si=uVY-Q4SbSfKHvLFTgGhC0A"><u>Spotify</u></a> or <a href="https://itssubjective.podbean.com/"><u>Podbean</u>.</a></p>
 
-# Header 1
-## Header 2
-### Header 3
+						</p>
+					</header>
+				</section>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+			
+			<!-- Features -->
+				<div class="wrapper style1">
 
-**Bold** and _Italic_ and `Code` text
+					<section id="features" class="container special">
+						<header>
+							<h2 style="font-family:Helvetica, sans-serif;color: #f97324;">WORDS THIS WEEK</h2>
+							<p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>
+						</header>
+						<div class="row">
+							<article class="col-4 col-12-mobile special">
+								<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+								<header>
+									<h3><a href="#">Gravida aliquam penatibus</a></h3>
+								</header>
+								<p>
+									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								</p>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+								<header>
+									<h3><a href="#">Sed quis rhoncus placerat</a></h3>
+								</header>
+								<p>
+									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								</p>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+								<header>
+									<h3><a href="#">Magna laoreet et aliquam</a></h3>
+								</header>
+								<p>
+									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								</p>
+							</article>
+						</div>
+					</section>
 
-[Link](url) and ![Image](src)
-```
+				</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+			<!-- Footer -->
+				<div id="footer" style="background-color: #f97324;">
+					<div class="container">
+						<div class="row">
 
-### Jekyll Themes
+									
+							
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annabelsal/itssubjective/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+						</div>
+						<hr />
+						<div class="row">
+							<div class="col-12">
 
-### Support or Contact
+								<!-- Contact -->
+									<section style="background-color:#f97324" class="contact">
+										<header>
+											<h3>Give us a follow or join the debate</h3>
+										</header>
+										
+										<ul class="icons">
+											<li><a href="https://twitter.com/subjectivePods" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://www.facebook.com/subjectivepods/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+											<li><a href="https://www.instagram.com/subjectivepods/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="https://open.spotify.com/show/48sJnbW64rDrJxnHBm8bgJ?si=uVY-Q4SbSfKHvLFTgGhC0A" class="icon brands fa-spotify"><span class="label">fa-spotify</span></a></li>
+				    
+										</ul>
+									</section>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+								<!-- Copyright -->
+									<div style="color:whitesmoke;"class="copyright">
+										<ul class="menu">
+											<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net"> HTML5 UP</a></li>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
